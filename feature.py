@@ -1,2 +1,1 @@
-#some sample code
-#some more code
+print("Hello, world!")
